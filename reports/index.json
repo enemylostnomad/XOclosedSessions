@@ -1,0 +1,30 @@
+[
+  {
+    "id": "20260222-200944-hz8r",
+    "title": "Just Mad N Fluffy",
+    "commanders": [
+      "Just Mad N Fluffy"
+    ],
+    "dateStart": "2026-02-22T20:09:44.000Z",
+    "dateEnd": "2026-02-22T22:00:44.000Z",
+    "dateLabel": "22/02/2026, 20:09:44 - 22/02/2026, 22:00:44",
+    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260222-200944-hz8r",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 18,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 1,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 19,
+      "avgEnemySize": 21
+    }
+  }
+]
