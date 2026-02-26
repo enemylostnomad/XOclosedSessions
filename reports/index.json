@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260226-193647-r5j0",
+    "title": "Strádùs",
+    "commanders": [
+      "Strádùs"
+    ],
+    "dateStart": "2026-02-26T19:36:47.000Z",
+    "dateEnd": "2026-02-26T20:51:34.000Z",
+    "dateLabel": "26/02/2026, 19:36:47 - 26/02/2026, 20:51:34",
+    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260226-193647-r5j0",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 31,
+      "avgEnemySize": 44
+    }
+  },
+  {
     "id": "20260224-194525-nkvz",
     "title": "Might Be A Spoon, Mon Mariachi",
     "commanders": [
