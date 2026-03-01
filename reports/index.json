@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260301-200543-1vtu",
+    "title": "Enemy Thorn",
+    "commanders": [
+      "Enemy Thorn"
+    ],
+    "dateStart": "2026-03-01T20:05:43.000Z",
+    "dateEnd": "2026-03-01T21:56:49.000Z",
+    "dateLabel": "01/03/2026, 20:05:43 - 01/03/2026, 21:56:49",
+    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260301-200543-1vtu",
+    "summary": {
+      "borderlandsPct": 0.22727272727272727,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 17,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 5,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 34
+    }
+  },
+  {
     "id": "20260222-203804-9vsc",
     "title": "Just Mad N Fluffy",
     "commanders": [
