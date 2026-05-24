@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260524-174241-afee",
+      "title": "Just Mad N Fluffy, Serial Pinkshot",
+      "commanders": [
+        "Just Mad N Fluffy",
+        "Serial Pinkshot"
+      ],
+      "dateStart": "2026-05-24T16:42:41.000Z",
+      "dateEnd": "2026-05-24T19:32:58.000Z",
+      "dateLabel": "24/05/2026, 17:42:41 - 24/05/2026, 20:32:58",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260524-174241-afee",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260517-184706-i8c1",
       "title": "Just Mad N Fluffy, Themyschera",
       "commanders": [
