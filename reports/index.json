@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260530-192142-nv0u",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "dateStart": "2026-05-30T18:21:42.000Z",
+      "dateEnd": "2026-05-30T19:39:38.000Z",
+      "dateLabel": "30/05/2026, 19:21:42 - 30/05/2026, 20:39:38",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260530-192142-nv0u",
+      "summary": {
+        "borderlandsPct": 0.65,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260524-174241-afee",
       "title": "Just Mad N Fluffy, Serial Pinkshot",
       "commanders": [
