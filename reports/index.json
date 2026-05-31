@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-200305-7x60",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-05-31T19:03:05.000Z",
+      "dateEnd": "2026-05-31T19:56:19.000Z",
+      "dateLabel": "31/05/2026, 20:03:05 - 31/05/2026, 20:56:19",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260531-200305-7x60",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260530-192142-nv0u",
       "title": "Me My Clones And I",
       "commanders": [
