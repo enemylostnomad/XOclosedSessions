@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260607-190846-mw0b",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-06-07T18:08:46.000Z",
+      "dateEnd": "2026-06-07T19:26:21.000Z",
+      "dateLabel": "07/06/2026, 19:08:46 - 07/06/2026, 20:26:21",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260607-190846-mw0b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260531-200305-7x60",
       "title": "Just Mad N Fluffy",
       "commanders": [
