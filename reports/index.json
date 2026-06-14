@@ -1,186 +1,219 @@
-[
-  {
-    "id": "20260607-190846-mw0b",
-    "title": "Just Mad N Fluffy",
-    "commanders": [
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-06-07T18:08:46.000Z",
-    "dateEnd": "2026-06-07T19:26:21.000Z",
-    "dateLabel": "07/06/2026, 19:08:46 - 07/06/2026, 20:26:21",
-    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260607-190846-mw0b",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 9,
-          "color": "#ef4444"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260614-192549-vpo6",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260531-200305-7x60",
-    "title": "Just Mad N Fluffy",
-    "commanders": [
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-05-31T19:03:05.000Z",
-    "dateEnd": "2026-05-31T19:56:19.000Z",
-    "dateLabel": "31/05/2026, 20:03:05 - 31/05/2026, 20:56:19",
-    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260531-200305-7x60",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-06-14T18:25:49.000Z",
+      "dateEnd": "2026-06-14T20:43:24.000Z",
+      "dateLabel": "14/06/2026, 19:25:49 - 14/06/2026, 21:43:24",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260614-192549-vpo6",
+      "summary": {
+        "borderlandsPct": 0.08108108108108109,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 34,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260607-190846-mw0b",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 36,
-      "avgEnemySize": 42
-    }
-  },
-  {
-    "id": "20260524-174241-afee",
-    "title": "Just Mad N Fluffy, Serial Pinkshot",
-    "commanders": [
-      "Just Mad N Fluffy",
-      "Serial Pinkshot"
-    ],
-    "dateStart": "2026-05-24T16:42:41.000Z",
-    "dateEnd": "2026-05-24T19:32:58.000Z",
-    "dateLabel": "24/05/2026, 17:42:41 - 24/05/2026, 20:32:58",
-    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260524-174241-afee",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 5,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-06-07T18:08:46.000Z",
+      "dateEnd": "2026-06-07T19:26:21.000Z",
+      "dateLabel": "07/06/2026, 19:08:46 - 07/06/2026, 20:26:21",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260607-190846-mw0b",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 9,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260531-200305-7x60",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260517-184706-i8c1",
-    "title": "Just Mad N Fluffy, Themyschera",
-    "commanders": [
-      "Just Mad N Fluffy",
-      "Themyschera"
-    ],
-    "dateStart": "2026-05-17T17:47:06.000Z",
-    "dateEnd": "2026-05-17T19:43:10.000Z",
-    "dateLabel": "17/05/2026, 18:47:06 - 17/05/2026, 20:43:10",
-    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260517-184706-i8c1",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 17,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-05-31T19:03:05.000Z",
+      "dateEnd": "2026-05-31T19:56:19.000Z",
+      "dateLabel": "31/05/2026, 20:03:05 - 31/05/2026, 20:56:19",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260531-200305-7x60",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 42
+      }
+    },
+    {
+      "id": "20260524-174241-afee",
+      "title": "Just Mad N Fluffy, Serial Pinkshot",
+      "commanders": [
+        "Just Mad N Fluffy",
+        "Serial Pinkshot"
       ],
-      "avgSquadSize": 27,
-      "avgEnemySize": 51
-    }
-  },
-  {
-    "id": "20260430-185845-2cd5",
-    "title": "Just Mad N Fluffy, Strádùs",
-    "commanders": [
-      "Just Mad N Fluffy",
-      "Strádùs"
-    ],
-    "dateStart": "2026-04-30T17:58:45.000Z",
-    "dateEnd": "2026-04-30T19:49:58.000Z",
-    "dateLabel": "30/04/2026, 18:58:45 - 30/04/2026, 20:49:58",
-    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260430-185845-2cd5",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 21,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 5,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-05-24T16:42:41.000Z",
+      "dateEnd": "2026-05-24T19:32:58.000Z",
+      "dateLabel": "24/05/2026, 17:42:41 - 24/05/2026, 20:32:58",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260524-174241-afee",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260517-184706-i8c1",
+      "title": "Just Mad N Fluffy, Themyschera",
+      "commanders": [
+        "Just Mad N Fluffy",
+        "Themyschera"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260301-200543-1vtu",
-    "title": "Enemy Thorn",
-    "commanders": [
-      "Enemy Thorn"
-    ],
-    "dateStart": "2026-03-01T20:05:43.000Z",
-    "dateEnd": "2026-03-01T21:56:49.000Z",
-    "dateLabel": "01/03/2026, 20:05:43 - 01/03/2026, 21:56:49",
-    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260301-200543-1vtu",
-    "summary": {
-      "borderlandsPct": 0.22727272727272727,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 17,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-05-17T17:47:06.000Z",
+      "dateEnd": "2026-05-17T19:43:10.000Z",
+      "dateLabel": "17/05/2026, 18:47:06 - 17/05/2026, 20:43:10",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260517-184706-i8c1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 51
+      }
+    },
+    {
+      "id": "20260430-185845-2cd5",
+      "title": "Just Mad N Fluffy, Strádùs",
+      "commanders": [
+        "Just Mad N Fluffy",
+        "Strádùs"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 34
-    }
-  },
-  {
-    "id": "20260222-203804-9vsc",
-    "title": "Just Mad N Fluffy",
-    "commanders": [
-      "Just Mad N Fluffy"
-    ],
-    "dateStart": "2026-02-22T20:38:04.000Z",
-    "dateEnd": "2026-02-22T21:49:10.000Z",
-    "dateLabel": "22/02/2026, 20:38:04 - 22/02/2026, 21:49:10",
-    "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260222-203804-9vsc",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 9,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-04-30T17:58:45.000Z",
+      "dateEnd": "2026-04-30T19:49:58.000Z",
+      "dateLabel": "30/04/2026, 18:58:45 - 30/04/2026, 20:49:58",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260430-185845-2cd5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260301-200543-1vtu",
+      "title": "Enemy Thorn",
+      "commanders": [
+        "Enemy Thorn"
       ],
-      "avgSquadSize": 19,
-      "avgEnemySize": 21
+      "dateStart": "2026-03-01T20:05:43.000Z",
+      "dateEnd": "2026-03-01T21:56:49.000Z",
+      "dateLabel": "01/03/2026, 20:05:43 - 01/03/2026, 21:56:49",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260301-200543-1vtu",
+      "summary": {
+        "borderlandsPct": 0.22727272727272727,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 17,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 34
+      }
+    },
+    {
+      "id": "20260222-203804-9vsc",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "dateStart": "2026-02-22T20:38:04.000Z",
+      "dateEnd": "2026-02-22T21:49:10.000Z",
+      "dateLabel": "22/02/2026, 20:38:04 - 22/02/2026, 21:49:10",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260222-203804-9vsc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 21
+      }
     }
-  }
-]
+  ]
+}
