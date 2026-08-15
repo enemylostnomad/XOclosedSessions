@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-144807-ubfp",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-08-15T13:48:07.000Z",
+      "dateEnd": "2026-08-15T15:31:39.000Z",
+      "dateLabel": "15/08/2026, 14:48:07 - 15/08/2026, 16:31:39",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260815-144807-ubfp",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 64
+      }
+    },
+    {
       "id": "20260621-192406-ciy8",
       "title": "Just Mad N Fluffy",
       "commanders": [
