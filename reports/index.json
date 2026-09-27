@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-201438-r92k",
+      "title": "Me My Clones And I",
+      "commanders": [
+        "Me My Clones And I"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-09-27T19:14:38.000Z",
+      "dateEnd": "2026-09-27T20:00:31.584Z",
+      "dateLabel": "27/09/2026, 20:14:38 - 27/09/2026, 21:00:31",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20260927-201438-r92k",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "World vs World",
+            "value": 12,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 15,
+        "avgEnemySize": 12
+      }
+    },
+    {
       "id": "20260927-201438-v99v",
       "title": "Me My Clones And I",
       "commanders": [
