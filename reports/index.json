@@ -1,9 +1,37 @@
 {
   "colorPalette": "electric-blue",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261002-192325-skrx",
+      "title": "Just Mad N Fluffy",
+      "commanders": [
+        "Just Mad N Fluffy"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-02T18:23:25.000Z",
+      "dateEnd": "2026-10-02T21:28:35.918Z",
+      "dateLabel": "02/10/2026, 19:23:25 - 02/10/2026, 22:28:35",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20261002-192325-skrx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 37,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20260927-201438-r92k",
       "title": "Me My Clones And I",
