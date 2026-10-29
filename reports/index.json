@@ -3,7 +3,40 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.10"
+  },
   "entries": [
+    {
+      "id": "20261029-185947-j5dn",
+      "title": "Strádùs",
+      "commanders": [
+        "Strádùs"
+      ],
+      "guild": {
+        "id": "E9CA4625-839C-E711-80D5-E83935B5B44D",
+        "name": "Night Out With Friends",
+        "tag": "XO"
+      },
+      "dateStart": "2026-10-29T18:59:47.000Z",
+      "dateEnd": "2026-10-29T20:46:10.975Z",
+      "dateLabel": "29/10/2026, 18:59:47 - 29/10/2026, 20:46:10",
+      "url": "https://enemylostnomad.github.io/XOclosedSessions/?report=20261029-185947-j5dn",
+      "publishedBy": "enemylostnomad",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20261002-192325-skrx",
       "title": "Just Mad N Fluffy",
